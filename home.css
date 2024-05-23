@@ -15,7 +15,7 @@ body {
     background: rgb(0, 255, 191);
     outline: rgb(213, 235, 135);
     border-radius: 10px;
-    box-shadow: 0 0 10px; rgba(0, 0, 0, .1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
     cursor: pointer;
     font-size: 15px;
     color: #000000;

@@ -28,7 +28,7 @@ body {
     border-radius: 10px;
     padding: 30px 40px;
     backdrop-filter: blur;
-    box-shadow: 0 0 10px rgba(0, 0, 0, .2)
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
     border: 2px solid rgba(225, 225, 225, .2);
 }
 
@@ -75,7 +75,7 @@ background-image: url('ICT_CLUB.png');
     background: lightgreen;
     outline: black;
     border-radius: 40px;
-    box-shadow: 0 0 10px; rgba(0, 0, 0, .1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
     cursor: pointer;
     font-size: 15px;
     color: #333;

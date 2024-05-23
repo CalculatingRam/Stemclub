@@ -1,0 +1,90 @@
+@import url("https://font.googleapis.com/css?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('bakround.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+
+.wrapper {
+    width: 420px;
+    background: rgb(8, 84, 15);
+    color: white;
+    border-radius: 10px;
+    padding: 30px 40px;
+    backdrop-filter: blur;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2)
+    border: 2px solid rgba(225, 225, 225, .2);
+}
+
+.wrapper h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.wrapper .input-box {
+    position: relative;
+    width: 200px;
+    height: 30px;
+    margin: 30px 0;
+}
+
+.input-box input {
+    width: 100%;
+    height: 100%;
+    background: white;
+    border: black;
+    outline: none;
+    border: 2px rgba(225, 225, 225, 2);
+    border-radius: 40px;
+    font-size: 15px;
+    color: black;
+    padding: 20px 45px 20px 20px;
+}
+
+.wrapper .onclick {
+    width: 50px;
+    height: 25px;
+    background: #ffff;
+    border-radius: 40px;
+}
+
+.logo {
+background-image: url('ICT_CLUB.png');
+}
+
+.wrapper .btn {
+    width: 50%;
+    height: 45px;
+    margin-left: 65px;
+    background: lightgreen;
+    outline: black;
+    border-radius: 40px;
+    box-shadow: 0 0 10px; rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 15px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+    }
+    
+
+
+
+
